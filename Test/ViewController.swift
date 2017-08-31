@@ -11,8 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     
     let holder = 5
-    
-    let holder2 = 10
 
     override func viewDidLoad() {
         super.viewDidLoad()
